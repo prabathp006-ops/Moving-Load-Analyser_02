@@ -1,5 +1,4 @@
 # Moving-Load-Analyser_02
-Moving Load Analyser for Single Span Bridge
 This program simulates the effect of a moving vehicular load on a simply supported beam. It calculates critical shear forces and bending moments as the load traverses the span, and provides an animated visualization of the structural response.
 
 1. 🚗 Moving Load Simulation: Load moves from the left support to the right support.
